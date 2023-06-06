@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Republic Day",
+"productVersion": "1.0",
+"dataUrl": "RepublicDay_ITG.data.unityweb",
+"wasmCodeUrl": "RepublicDay_ITG.wasm.code.unityweb",
+"wasmFrameworkUrl": "RepublicDay_ITG.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "RepublicDay_ITG.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.36f1"
+}
